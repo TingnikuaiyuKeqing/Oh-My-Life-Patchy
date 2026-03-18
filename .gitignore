@@ -1,0 +1,13 @@
+.env
+.env.*
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+workspace/USER.md
+workspace/MEMORY.md
+workspace/memory/
+
+tmp/
+temp/
