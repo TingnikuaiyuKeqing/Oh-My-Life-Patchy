@@ -2,6 +2,7 @@
 
 > 一个专门识别并修复日常隐性损耗的 AI Agent  
 > An AI agent that identifies and repairs daily hidden frictions.
+> ![Poster](assets/poster.jpg)
 
 ## 项目简介
 
@@ -187,7 +188,7 @@ Oh-My-Life-Patchy 不用于：
 - 接入便携玩偶或微型终端，使其从屏幕中的 AI 延展为现实中的生活伙伴
 - 接入微型打印模块，把“今晚最低完成版”“出门前检查清单”等补丁输出为实体纸条
 - 在用户授权和可控开关前提下，探索更自然的陪伴式生活补丁体验
-
+![Poster](assets/概念图.png)
 ---
 
 ## 仓库结构
