@@ -4,9 +4,14 @@
 > An AI agent that identifies and repairs daily hidden frictions.
 > ![Poster](assets/poster.jpg)
 > 部署方式：
+> 
 > 1.安装好openclaw
-> 2.下载workspace，并入你的openclaw的workspace文件夹，带template的文件可以直接去掉template，也可以进行独属于你的MEMORY和USER文件
-> #请用全新的openclaw，避免覆盖你的原有数据，除非你知道你在做什么
+> 
+> 2.下载仓库的压缩文件并解压，将得到的workspace文件夹与你的openclaw的workspace文件夹合并。
+> 
+> 带template的文件可以直接去掉template后使用，也可以进行修改，以便创建独属于你的MEMORY.md和USER.md
+> 
+> #如果你已经使用过openclaw，请避免覆盖你的原有数据，除非你知道你在做什么
 
 ## 项目简介
 
