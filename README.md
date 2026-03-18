@@ -3,6 +3,10 @@
 > 一个专门识别并修复日常隐性损耗的 AI Agent  
 > An AI agent that identifies and repairs daily hidden frictions.
 > ![Poster](assets/poster.jpg)
+> 部署方式：
+> 1.安装好openclaw
+> 2.下载workspace，并入你的openclaw的workspace文件夹，带template的文件可以直接去掉template，也可以进行独属于你的MEMORY和USER文件
+> #请用全新的openclaw，避免覆盖你的原有数据，除非你知道你在做什么
 
 ## 项目简介
 
